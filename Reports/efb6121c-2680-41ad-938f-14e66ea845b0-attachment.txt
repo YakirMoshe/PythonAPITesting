@@ -1,0 +1,4 @@
+This is Sanity Groping test case code.....
+This is end of my test cases
+Close browser after executing testcase / Close Db Connection after executing testcase
+-------------------------------------------------------------------

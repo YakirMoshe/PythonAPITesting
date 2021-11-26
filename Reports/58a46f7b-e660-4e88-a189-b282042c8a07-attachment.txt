@@ -1,0 +1,4 @@
+This is are Fixture Code will execute before testcase
+-------------------------------------------------------------------
+This is Smoke Groping test case code.....
+This is end of my test cases
