@@ -6,7 +6,7 @@ from Data_Driven_Testing import Library
 
 
 def test_add_multiple_student():
-    # API
+    # API URL
     API_URL = "https://reqres.in/api/users"
     file = open('C:/TASK_API/AddNewStudent.json')
     json_request = json.loads(file.read())
