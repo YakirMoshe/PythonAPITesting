@@ -1,2 +1,2 @@
 from . import  Library
-from .  import TestCase
+from .  import test_TestCase

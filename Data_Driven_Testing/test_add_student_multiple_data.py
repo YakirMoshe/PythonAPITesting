@@ -20,4 +20,4 @@ def test_add_multiple_student():
          response = requests.post(API_URL, json_request)
          print(response.text)
          print(response.status_code)
-         assert response.status_code == 201
+         assert response.status_code == 200
